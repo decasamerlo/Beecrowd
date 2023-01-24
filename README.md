@@ -25,7 +25,7 @@ Antes de executar os programas em Java, primeiro é necessário **compilar**. Pa
 
 Este comando cria os arquivos *.class* necessários para a execução do programa. Com os arquivos criados, para executar o programa em Java basta rodar o seguinte comando:
 
-`java Main.java`
+`java Main`
 
 O console ficará aguardando as entradas e apresentará as saídas especificadas no arquivo *description.md*
 
