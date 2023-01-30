@@ -33,7 +33,9 @@ O console ficará aguardando as entradas e apresentará as saídas especificadas
 
 Para executar os programas em Python, basta rodar o seguinte comando:
 
-`py Main.py`
+`py Main.py` - para sistemas operacionais Windows
+
+`python3 Main.py` - para sistemas operacionais Linux
 
 O console ficará aguardando as entradas e apresentará as saídas especificadas no arquivo *description.md*
 
